@@ -1,3 +1,0 @@
-git rm -r *
-git commit -m "Delete all files"
-git push origin main
